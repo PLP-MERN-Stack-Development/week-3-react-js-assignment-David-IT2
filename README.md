@@ -42,7 +42,7 @@ Modern web browser
 Code editor (VS Code recommended)
 below
 🌐 Deployment
-Live Demo: week3-three-blush.vercel.app
+Live Demo: https://week3-three-blush.vercel.app/
 
 
 📚 Resources
